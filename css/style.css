@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: linear-gradient(to bottom, #0F2027, #203A43, #2C5364);
+    margin-top: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
